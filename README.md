@@ -81,11 +81,8 @@ Anomaly flags on time series plots
 
 # 📁 Project Structure
 kotlin
-
 Copy
-
 Edit
-
 network-fault-prediction/
 │
 ├── data/
