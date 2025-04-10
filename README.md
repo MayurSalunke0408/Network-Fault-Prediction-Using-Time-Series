@@ -5,7 +5,7 @@ Built a time series-based fault prediction model for telecom towers using signal
 Predicting telecom tower outages using historical logs, weather data, and time series modeling.
 
 # 📁 Project Overview
-Telecom network outages cause service disruptions and revenue loss. This project uses time series forecasting and anomaly detection techniques to proactively predict telecom tower faults using synthetic and real-world data inputs. The goal is to support telecom OSS (Operations Support Systems) like those used by Amdocs.
+Telecom network outages cause service disruptions and revenue loss. This project uses time series forecasting and anomaly detection techniques to proactively predict telecom tower faults using synthetic and real-world data inputs. The goal is to support telecom OSS (Operations Support Systems).
 
 # 🎯 Objectives
 Forecast faults/outages at a tower level using historical data
